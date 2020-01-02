@@ -1,4 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
+This is customized version of official Create React App with support of SASS, ESLint and Prettier configured for Airbnb styleguides, Redux with thunks, Routing and Material UI. 
+
+## Additional packages
+Added to default  template:<br />
+<br />
+node-sass<br />
+@material-ui/core<br />
+@material-ui/icons<br />
+node-sass<br />
+prettier<br />
+prop-types<br />
+query-string<br />
+react-redux<br />
+react-router-dom<br />
+redux<br />
+redux-devtools-extension<br />
+redux-thunk<br />
+babel-eslint<br />
+eslint<br />
+eslint-config-airbnb<br />
+eslint-config-prettier<br />
+eslint-plugin-import<br />
+eslint-plugin-jsx-a11y<br />
+eslint-plugin-prettier<br />
+eslint-plugin-react<br />
+eslint-plugin-react-hooks 
 
 ## Available Scripts
 
