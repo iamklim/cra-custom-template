@@ -2,13 +2,21 @@ import React from 'react';
 import './styles/main.sass';
 import './App.sass';
 
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+
 import Example from './components/Example/Example';
 
 function App() {
   return (
-    <div className="app">
-      <Example prop1 prop2="property" />
-    </div>
+    <Router>
+      <div className="app">
+        <Switch>
+          <Route exact path="/">
+            <Example prop1 prop2="property" />
+          </Route>
+        </Switch>
+      </div>
+    </Router>
   );
 }
 
