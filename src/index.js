@@ -5,6 +5,7 @@ import { Provider } from 'react-redux';
 import store from './redux/store';
 
 import 'normalize.css'; // Normalize CSS - always goes before other CSS
+import './styles/main.sass';
 
 import App from './App';
 

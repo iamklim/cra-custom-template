@@ -1,5 +1,4 @@
 import React from 'react';
-import './styles/main.sass';
 import './App.sass';
 
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
