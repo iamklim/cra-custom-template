@@ -13,8 +13,6 @@ Added to default  template:<br />
     "@material-ui/icons": "^4.5.1",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-config-prettier": "^6.9.0",
-    "eslint-plugin-import": "^2.19.1",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-prettier": "^3.1.2",
     "ky": "^0.16.1",
     "node-sass": "^4.13.0",
